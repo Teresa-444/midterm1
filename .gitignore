@@ -1,0 +1,5 @@
+# compiled programs
+pointer_ref
+a.out
+*.o
+.DS_Store
